@@ -1,0 +1,39 @@
+C:\Users\A\Desktop\Azip\Azip\obj\Debug\Azip.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Azip\Azip\obj\Debug\Azip.Form1.resources
+C:\Users\A\Desktop\Azip\Azip\obj\Debug\Azip.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\Azip\Azip\bin\Debug\Aaronzip.exe
+C:\Users\A\Desktop\Azip\Azip\bin\Debug\Aaronzip.pdb
+C:\Users\A\Desktop\Azip\Azip\obj\Debug\Aaronzip.exe
+C:\Users\A\Desktop\Azip\Azip\obj\Debug\Aaronzip.pdb
+C:\Users\A\Desktop\Azip\Azip\obj\Debug\Aaronzip.Properties.Resources.resources
+E:\Azip\Azip\obj\Debug\Aaronzip.exe
+E:\Azip\Azip\obj\Debug\Aaronzip.pdb
+E:\Azip\Azip\bin\Debug\Aaronzip.exe
+E:\Azip\Azip\bin\Debug\Aaronzip.pdb
+E:\Azip\Azip\bin\Debug\Ionic.Zip.dll
+E:\Azip\Azip\bin\Debug\Ionic.Zip.xml
+E:\Azip\Azip\obj\Debug\Azip.csprojResolveAssemblyReference.cache
+E:\Azip\Azip\obj\Debug\Azip.Form1.resources
+E:\Azip\Azip\obj\Debug\Aaronzip.Properties.Resources.resources
+E:\Azip\Azip\obj\Debug\Azip.csproj.GenerateResource.Cache
+D:\Azip\Azip\obj\Debug\Aaronzip.exe
+D:\Azip\Azip\obj\Debug\Aaronzip.pdb
+D:\Azip\Azip\bin\Debug\Aaronzip.exe
+D:\Azip\Azip\bin\Debug\Aaronzip.pdb
+D:\Azip\Azip\bin\Debug\Ionic.Zip.dll
+D:\Azip\Azip\bin\Debug\Ionic.Zip.xml
+D:\Azip\Azip\obj\Debug\Azip.csprojResolveAssemblyReference.cache
+D:\Azip\Azip\obj\Debug\Azip.Form1.resources
+D:\Azip\Azip\obj\Debug\Aaronzip.Properties.Resources.resources
+D:\Azip\Azip\obj\Debug\Azip.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\Azip\Azip\bin\Debug\Ionic.Zip.dll
+C:\Users\A\Desktop\Azip\Azip\bin\Debug\Ionic.Zip.xml
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Aaronzip.exe
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Aaronzip.pdb
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\bin\Debug\Aaronzip.exe
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\bin\Debug\Aaronzip.pdb
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Azip.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Azip.Form1.resources
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Aaronzip.Properties.Resources.resources
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Azip.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Debug\Azip.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\bin\Release\Aaronzip.exe
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\bin\Release\Aaronzip.pdb
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\bin\Release\Ionic.Zip.dll
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\bin\Release\Ionic.Zip.xml
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Release\Azip.Form1.resources
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Release\Aaronzip.Properties.Resources.resources
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Release\Azip.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Release\Aaronzip.exe
+C:\Users\A\Desktop\Programming\C#\Self Made Tools\Azip\Azip\obj\Release\Aaronzip.pdb
