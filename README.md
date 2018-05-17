@@ -1,3 +1,6 @@
+<p align="center">
+
+
 -OLD PROJECT-
 
 This was programmed in C# and was meant to be a simple gui that zipped files,
@@ -7,3 +10,4 @@ This project is discontinued!
 
 
 ![ScreenShot](https://github.com/aaprather/Azip/blob/master/screen1.png)
+</p>
